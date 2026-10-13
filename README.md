@@ -18,7 +18,7 @@
 - 🎨 UI/UX designer: I design user-centered interfaces that are clear, usable, and a little bit delightful
 - 📊 Thesis on **sentiment data visualization** in a stock trading app
 - 🧪 Currently learning **QA testing** (manual → Playwright automation)
-- 🗣️ Works in Bahasa Indonesia & English
+- 🗣️ Works in Indonesian & English
 
 ## 🛠️ Toolbox
 <p>

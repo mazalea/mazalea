@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lea 🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=480&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Designing+things+people+actually+enjoy+using;Learning+QA+%26+test+automation+%F0%9F%A7%AA" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Designing+things+people+actually+enjoy+using;Learning+QA+%26+test+automation+%F0%9F%A7%AA" alt="typing intro" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 🛠️ Toolbox
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,github,js,html,css,vscode,python,typescript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,github,js,html,css,vscode,python,typescript,php&theme=dark" />
 </p>
 UI Design · UX Design · Wireframing · Prototyping · Design Systems · Usability Testing · Manual QA · Playwright (learning)
 
@@ -32,7 +32,7 @@ UI Design · UX Design · Wireframing · Prototyping · Design Systems · Usabil
 
 ## 📈 Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mazalea&show_icons=true&theme=default&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mazalea&show_icons=true&theme=dark&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazalea&layout=compact&hide_border=true" />
 </p>
 

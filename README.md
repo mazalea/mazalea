@@ -8,6 +8,10 @@
   📍 Indonesia &nbsp;|&nbsp; 🎓 Fresh grad &nbsp;|&nbsp; 🌍 Open to remote roles
 </p>
 
+<p align="center">
+  <a href="https://mazalea.framer.website"><b>🎨 See my portfolio →</b></a>
+</p>
+
 ---
 
 ## 🌼 About me
@@ -18,9 +22,9 @@
 
 ## 🛠️ Toolbox
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,github,js,html,css,vscode,python,typescript&theme=light" />
+  <img src="https://skillicons.dev/icons?i=figma,github,js,html,css,vscode,python,typescript&theme=dark" />
 </p>
-`UI Design` · `UX Design` · `Wireframing` · `Prototyping` · `Design Systems` · `Usability Testing` · `Manual QA` · `Playwright (learning)`
+UI Design · UX Design · Wireframing · Prototyping · Design Systems · Usability Testing · Manual QA · Playwright (learning)
 
 ## 🎯 Currently
 - 🌱 Learning: Playwright, test automation
@@ -34,6 +38,7 @@
 
 ## 📫 Let's connect
 <p>
+  <a href="https://mazalea.framer.website"><img src="https://img.shields.io/badge/Portfolio-View%20my%20work-FF69B4?style=for-the-badge&logo=framer&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mazalea"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:azalea.nareswari@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>

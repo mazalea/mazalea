@@ -33,7 +33,7 @@ UI Design · UX Design · Wireframing · Prototyping · Design Systems · Usabil
 ## 📈 Stats
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=mazalea&show_icons=true&theme=dark&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazalea&layout=compact&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazalea&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ## 📫 Let's connect

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lea 🌸</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=480&lines=UX+Researcher+%F0%9F%94%8D;Curious+about+people+%26+their+problems;Learning+QA+%26+test+automation+%F0%9F%A7%AA;Makes+pipe+cleaner+flowers+%F0%9F%8C%B7" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=480&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Designing+things+people+actually+enjoy+using;Learning+QA+%26+test+automation+%F0%9F%A7%AA" alt="typing intro" />
 </p>
 
 <p align="center">
@@ -11,16 +11,16 @@
 ---
 
 ## 🌼 About me
-- 🔍 UX/UCD researcher: I turn messy human behavior into clear, usable insights
+- 🎨 UI/UX designer: I design user-centered interfaces that are clear, usable, and a little bit delightful
 - 📊 Thesis on **sentiment data visualization** in a stock trading app
 - 🧪 Currently learning **QA testing** (manual → Playwright automation)
 - 🗣️ Works in Bahasa Indonesia & English
 
 ## 🛠️ Toolbox
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,notion,github,js,html,css,vercel&theme=light" />
+  <img src="https://skillicons.dev/icons?i=figma,github,js,html,css,vscode,python,typescript&theme=light" />
 </p>
-`UX Research` · `Usability Testing` · `UI/UX Design` · `Manual QA` · `Playwright (learning)`
+`UI Design` · `UX Design` · `Wireframing` · `Prototyping` · `Design Systems` · `Usability Testing` · `Manual QA` · `Playwright (learning)`
 
 ## 🎯 Currently
 - 🌱 Learning: Playwright, test automation
@@ -28,8 +28,8 @@
 
 ## 📈 Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mazalea&show_icons=true&theme=default&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazalea&layout=compact&hide_border=true" />
 </p>
 
 ## 📫 Let's connect

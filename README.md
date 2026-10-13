@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lea 🌸</h1>
+<h1 align="center">Hi, I'm Lea</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer+%F0%9F%8E%A8;Designing+things+people+actually+enjoy+using;Learning+QA+%26+test+automation+%F0%9F%A7%AA" alt="typing intro" />
